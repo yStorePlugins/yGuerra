@@ -23,6 +23,18 @@ Comando:
    Aliases: [ war ]
 #
 #
+
+# Sistema de bloqueadores
+Bloqueadores:
+   # Mundos que não irão funcionar
+   world-blacklist: []
+   # Entidades que serão bloqueadas (no bloqueador de spawn mob)
+   entity-whitelist:
+      - 'ZOMBIE'
+      - 'SKELETON'
+      - 'COW'
+      - 'PIG'
+
 # Sistema de sopas
 Sopa:
    # Vai funcionar apenas dentro do evento
