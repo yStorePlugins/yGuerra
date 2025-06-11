@@ -10,10 +10,10 @@ Database:
 #
 #Use: yClans, AtlasClans, SimpleClans, AtlasFactions, AtlasFactionsV2, UltimateClans, StormClans ou Factions
 Plugin de clan: 'yClans'
-# Ativar o hook com o Vault para usar um plugin de economia
-VaultHook: true
+
 # Bloquear o teleporte se estiver no evento
 BlockTp: true
+
 # Teleportar ao centro quando sair da borda enquanto ela estiver se movendo
 TeleportOutside: false
 #

@@ -1,3 +1,6 @@
+# Permissão para poder participar do evento
+Permissao: ''
+
 Comando:
   Comando: 'gladiador'
   Aliases: [ gladiadores, gladiator ]
