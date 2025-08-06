@@ -138,6 +138,7 @@ Custo:
 #
 Fogo amigo: false #simpleclans é sempre desativado.
 Itens setados: true
+Levar itens: false
 Dropar itens: false #ao morrer dropar os itens do inventário
 #
 Tag:
